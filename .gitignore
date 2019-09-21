@@ -1,0 +1,7 @@
+*.nro
+*.nacp
+*.elf
+*.tar.gz
+*.zip
+
+build
